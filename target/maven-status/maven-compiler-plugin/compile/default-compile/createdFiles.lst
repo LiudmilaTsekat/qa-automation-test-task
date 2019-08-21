@@ -1,0 +1,10 @@
+com\billie\core\configuration\ClientManager.class
+com\billie\core\core\BillieExceptions.class
+domain\CommentsResponse.class
+com\billie\core\core\CoreResponse.class
+domain\GetCommentsBuilder.class
+com\billie\core\configuration\ConfigHelper.class
+com\billie\core\core\CoreRequest.class
+com\billie\core\core\MultipleResponse.class
+com\billie\core\core\JsonReader.class
+com\billie\core\core\BillieGetRequest.class
